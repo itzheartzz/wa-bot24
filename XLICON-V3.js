@@ -4370,7 +4370,7 @@ ${themeemoji} URL: ${repoData.html_url}
             global.websitex
           }\nGitHub: ${global.botscript}\n\nHi @${
             me.split("@")[0]
-          } 👋\nDont forget to donate yeah🍜 👇 https://www.buymeacoffee.com/ahmmikun`;
+          } 👋\nBuy Me A Coffee ☕ Dana Nomor 👉 083829817709`;
           sendXliconBotIncMessage(from, {
             text: teks,
             mentions: [sender],
